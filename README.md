@@ -26,7 +26,13 @@ Data Collection | Data Cleaning & organisation on Power Query Editor | Data Mode
 8)	Who are the customers that have repeated the most? How much are they contributing to revenue?
 
 ## Visualisation & Insights
-[Power BI Dashboard](
+[Power BI Dashboard](https://github.com/HafshaWahab/Images/blob/main/TATA%20Project_Final.pbix)
+
+[Project PDF](https://github.com/HafshaWahab/Images/blob/main/TATA%20Project%20Ppt_PDF.pdf)
+
+### Data Analysis
+![tata project_1](https://github.com/HafshaWahab/Online-Retail-Store-Data-Analysis/assets/152807534/859774ce-a315-432c-b9f9-db3321d18631)
+
 
 
 
