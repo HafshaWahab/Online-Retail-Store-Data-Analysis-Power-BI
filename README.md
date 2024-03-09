@@ -25,4 +25,12 @@ Data Collection | Data Cleaning & organisation on Power Query Editor | Data Mode
 7)	What revenue is being generated from the customers who have ordered more than once?
 8)	Who are the customers that have repeated the most? How much are they contributing to revenue?
 
+## Visualisation & Insights
+[Power BI Dashboard](
+
+
+
+
+
+
 
