@@ -34,7 +34,12 @@ Data Collection | Data Cleaning & organisation on Power Query Editor | Data Mode
 Dashboard
 ![tata project_1](https://github.com/HafshaWahab/Online-Retail-Store-Data-Analysis/assets/152807534/859774ce-a315-432c-b9f9-db3321d18631)
 
+1) Our client wanted to know the total revenue generated per month.
+Here, we can see that the highest revenue was generated in October and November, with a sharp dip in April and December.
+![tata project_2](https://github.com/HafshaWahab/Online-Retail-Store-Data-Analysis/assets/152807534/fb75aff3-2da2-4cbc-80b3-d9a63ccfa956)
 
+2) Then our client wanted to know which were the topmost countries in their outlets other than the United Kingdom who were performing well.
+![tata project_3](https://github.com/HafshaWahab/Online-Retail-Store-Data-Analysis/assets/152807534/0566ef3d-d4fe-4fa1-b202-4efeaf20b0a0)
 
 
 
