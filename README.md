@@ -41,6 +41,7 @@ Here, we can see that the highest revenue was generated in **October and Novembe
 2) Then our client wanted to know which were the topmost countries in their outlets other than the United Kingdom who were performing well. We found that the Netherlands, EIRE and Germany are the leading ones with the highest revenue and placing the maximum number of orders quantity.
 ![tata project_3](https://github.com/HafshaWahab/Online-Retail-Store-Data-Analysis/assets/152807534/0566ef3d-d4fe-4fa1-b202-4efeaf20b0a0)
 They also wanted to see the top 5 and bottom 5 countries based on revenue.
+
 ![Screenshot (61)](https://github.com/HafshaWahab/Online-Retail-Store-Data-Analysis/assets/152807534/bee2c86e-4a3f-4098-99e3-40d82cbca4be)
 
 
