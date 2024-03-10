@@ -31,6 +31,7 @@ Data Collection | Data Cleaning & organisation on Power Query Editor | Data Mode
 [Project PDF](https://github.com/HafshaWahab/Images/blob/main/TATA%20Project%20Ppt_PDF.pdf)
 
 ### Data Analysis
+Dashboard
 ![tata project_1](https://github.com/HafshaWahab/Online-Retail-Store-Data-Analysis/assets/152807534/859774ce-a315-432c-b9f9-db3321d18631)
 
 
