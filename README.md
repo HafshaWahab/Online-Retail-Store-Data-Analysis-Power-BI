@@ -3,7 +3,7 @@
 ![image](https://github.com/HafshaWahab/Online-Retail-Store-Data-Analysis/assets/152807534/2722eda9-54f2-41e3-ada8-c828d3412d90)
 
 ## Background
-In this project, we have been asked to review the data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management wants to analyse the major contributing factors to the revenue to plan for next year strategically. The leadership is interested in viewing the metrics from an operations and marketing perspective. Management also intends to expand the business and is interested in seeking guidance into areas which are performing well so they can keep a clear focus on what’s working. They would also like to view different metrics based on the demographic information available in the data. This dashboard analyses the complete sales, revenue and demographics of an online store for the year 2011 excluding the United Kingdom data. It is prepared by using Power BI and Power Query Editor.
+In this project, we've been tasked with analyzing data to provide valuable insights for the CEO and CMO of the business. The company has been performing well, and management wants to strategically plan for the future by identifying the major factors contributing to revenue. They're interested in metrics from both operations and marketing perspectives, seeking guidance on areas of success to maintain focus. Additionally, they want to explore metrics based on available demographic information. The dashboard analyzes sales, revenue, and demographics for 2011, excluding data from the United Kingdom, using Power BI and Power Query Editor.
 
 ## Methodolgy
 Data Collection | Data Cleaning & organisation on Power Query Editor | Data Modeling on Power BI | Data Analysis | Interpretation
@@ -16,14 +16,11 @@ Data Collection | Data Cleaning & organisation on Power Query Editor | Data Mode
 5. Top 10 and bottom 10 products and the total revenue generated from them.
 
 ## Recommended Analysis
-1)	Which region is generating the highest and the lowest sales respectively?
-2)	Which month has generated the most revenue? Is there any seasonality in the sales?
-3)	Who are the top customers and how much do they contribute to the total revenue? Is the business dependent on these customers or is the customer base diversified?
-4)	What is the monthly trend of the revenue? Which month has faced the highest and the lowest sales?
-5)	What is the percentage of customers who are repeating their orders? Are they ordering the same products or different?
-6)	For repeat customers, how long does it take for them to place the next order after being delivered the previous one?
-7)	What revenue is being generated from the customers who have ordered more than once?
-8)	Who are the customers that have repeated the most? How much are they contributing to revenue?
+1) Identify regions with the highest and lowest sales.
+2) Analyze revenue trends by month and seasonality.
+3) Assess contributions of top customers to total revenue and diversification of customer base.
+4) Explore monthly revenue trends and identify peak and low sales months.
+5) Analyze revenue from repeat customers and identify top repeat customers and their contributions.
 
 ## Visualisations
 [Power BI Dashboard](https://github.com/HafshaWahab/Images/blob/main/TATA%20Project_Final.pbix)
@@ -61,14 +58,17 @@ b) We analysed the top 10 and bottom 10 products sold in different outlets.
 
 c) To increase the personalised experience of the customers, we tried to analyse the topmost customer_ID, product name and the maximum quantity ordered by the customers.
 ![tata project_7](https://github.com/HafshaWahab/Online-Retail-Store-Data-Analysis/assets/152807534/e565a556-19e5-47b0-8251-9b7d3c2db075)
+
 ## Insights
-* Netherlands, EIRE, Germany, France, Germany and Australia are the top 5 most revenue-generating countries, hence, the store can think to expand their business in these countries.
-* Stock_code POST has generated the highest revenue.
-* Since October and November are the seasonal months, the store can offer more promotions and offers during this time.
+* Netherlands, EIRE, Germany, France, and Australia are the top revenue-generating countries.
+* Stock code "POST" has the highest revenue.
+* October and November are seasonal months with the potential for increased promotions.
 
 ## Suggestions to Client
-* The CEO and CMO can check what were the key factors that led to the highest sales in October and November and could accordingly plan to boost their marketing and sales strategies.
-* They can also plan to expand their business in the Netherlands and EIRE.
-* They could take this analysis into large-scale production for a real-time understanding of the business. Our team can suggest the necessary steps. 
+* Investigate factors driving high sales in October and November for future marketing strategies.
+* Consider expansion opportunities in the Netherlands and EIRE.
+* Implement real-time business monitoring for ongoing insights and decision-making.
+
+Feel free to reach out for further discussion or refinement.
 
 
