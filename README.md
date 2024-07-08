@@ -3,7 +3,7 @@
 ![image](https://github.com/HafshaWahab/Online-Retail-Store-Data-Analysis/assets/152807534/2722eda9-54f2-41e3-ada8-c828d3412d90)
 
 ## Background
-In this project, we've been tasked with analyzing data to provide valuable insights for the CEO and CMO of the business. The company has been performing well, and management wants to strategically plan for the future by identifying the major factors contributing to revenue. They're interested in metrics from both operations and marketing perspectives, seeking guidance on areas of success to maintain focus. Additionally, they want to explore metrics based on available demographic information. The dashboard analyzes sales, revenue, and demographics for 2011, excluding data from the United Kingdom, using Power BI and Power Query Editor.
+This projectrequired data analysis to provide valuable insights for the CEO and CMO of the business. The company has been performing well, and management wants to strategically plan for the future by identifying the major factors contributing to revenue. They're interested in metrics from both operations and marketing perspectives, seeking guidance on areas of success to maintain focus. Additionally, they want to explore metrics based on available demographic information. The dashboard analyzes sales, revenue, and demographics for 2011, excluding data from the United Kingdom, using Power BI and Power Query Editor.
 
 ## Methodolgy
 Data Collection | Data Cleaning & organisation on Power Query Editor | Data Modeling on Power BI | Data Analysis | Interpretation
